@@ -1,0 +1,2 @@
+Generated videos will be saved here.
+The default output filename is final_short.mp4.

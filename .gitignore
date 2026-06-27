@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Sensitive files
+config.json
+client_secret.json
+client_secret_*.json
+!client_secret.example.json
+youtube_token*.json
+auth_sessions.json
+memory.json
+
+# Media outputs (keep repo small)
+*.mp4
+*.mp3
+*.jpg
+*.png
+*.srt
+*.gif
+*.webm
+*.mkv
+*.mov
+*.avi
+
+# Temp files
+temp_bg_*.mp4
+temp_*.mp4
+downloaded_image_*.jpg
+preview_snapshot.jpg
+voice.mp3
+voice.srt
+bg_music.mp3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temp
+editor_temp/

@@ -1,0 +1,6 @@
+Place your background template video here (e.g., parkour compilation, city timelapse, etc.).
+The video should be at least 90 seconds long to allow random chunk extraction.
+
+Supported formats: .mp4, .mov, .avi, .mkv
+
+Example: 30min_parkour.mp4

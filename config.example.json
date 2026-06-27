@@ -1,0 +1,20 @@
+{
+    "openrouter_api_key": "sk-or-v1-YOUR_API_KEY_HERE",
+    "pixabay_api_key": "YOUR_PIXABAY_KEY",
+    "pexels_api_key": "YOUR_PEXELS_KEY",
+    "ai_model": "deepseek/deepseek-v4-flash",
+    "bg_video": "assets/background_video.mp4",
+    "output_file": "outputs/final_short.mp4",
+    "tts_voice": "en-US-ChristopherNeural",
+    "auto_upload": true,
+    "max_search_results": 4,
+    "search_time_limit": "w",
+    "imagemagick_path": "C:\\Program Files (x86)\\ImageMagick-7.1.2-Q16-HDRI\\magick.exe",
+    "custom_instructions": "",
+    "selected_account": "Default",
+    "subtitle_color": "yellow",
+    "watermark_text": "",
+    "quiz_prefix": "Answer: ",
+    "preview_auto_refresh": false,
+    "editor_temp_dir": "editor_temp"
+}
